@@ -1,1 +1,5 @@
+Objective: Blinkit delivery SLA diagnostic.
 
+Scope: delivery SLA anomalies by city and month.
+
+Data needed: city, month, delivered orders, delivery time metrics, cancellations
